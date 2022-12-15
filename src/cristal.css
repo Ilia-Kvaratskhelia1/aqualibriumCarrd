@@ -1,0 +1,25 @@
+.mainImageCont{
+    width: 100%;
+    height: 310px;
+ position: relative;
+    
+}
+.mainImageCont img{
+width: 302px;
+height: 280px;
+border-radius:8px;
+position: absolute;
+left: 25px;
+top: 25px;
+cursor: pointer;
+transition: 0.5s ease-in;
+}
+
+.viewImg{
+background-color: #00fff79e;
+opacity: 0;
+}
+
+.mainImageCont img ~ .viewImg:hover {
+    opacity: 100;
+}

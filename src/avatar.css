@@ -1,0 +1,32 @@
+.MainFooter{
+    width:99%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.ChildFoot{
+    width: 84%;
+    border-top: 2px solid white;
+    
+}
+.avatarSection{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 90%;
+}
+.avatarSection img{
+    width: 40px;
+    height: 40px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+.avatarSection p{
+    color: gray;
+    margin: 0 15px;
+}
+.avatarSection p span{
+    color:white;
+}

@@ -1,0 +1,14 @@
+
+.imageContainer{
+  width: 100px;
+  height: 100px;
+  border: 2px soldi red;
+}
+
+
+.mainContainer{
+  width: 350px;
+  height: 600px;
+  border-radius: 15px;
+  background-color: #15263F;
+}
