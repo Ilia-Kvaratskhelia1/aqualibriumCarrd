@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/aqualibriumCarrd/static/css/main.3f83577e.css",
+    "main.js": "/aqualibriumCarrd/static/js/main.c68d6e22.js",
+    "static/js/787.d3947b87.chunk.js": "/aqualibriumCarrd/static/js/787.d3947b87.chunk.js",
+    "static/media/image-equilibrium.jpg": "/aqualibriumCarrd/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/aqualibriumCarrd/index.html",
+    "static/media/icon-view.svg": "/aqualibriumCarrd/static/media/icon-view.fedac5512cc6657af397a76d5e03ea37.svg",
+    "static/media/icon-clock.svg": "/aqualibriumCarrd/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
+    "static/media/icon-ethereum.svg": "/aqualibriumCarrd/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
+    "main.3f83577e.css.map": "/aqualibriumCarrd/static/css/main.3f83577e.css.map",
+    "main.c68d6e22.js.map": "/aqualibriumCarrd/static/js/main.c68d6e22.js.map",
+    "787.d3947b87.chunk.js.map": "/aqualibriumCarrd/static/js/787.d3947b87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f83577e.css",
+    "static/js/main.c68d6e22.js"
+  ]
+}
